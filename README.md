@@ -3,10 +3,12 @@ Recommendation for movies
 
 Recommendation System
 
-What is Recommender System
+<h3>What is Recommender System</h3>
 
-Systems that attempt to predict item that ysers may be interested in
+Systems that attempt to predict item that users may be interested in
+
 Systems that help people find information that may interest them
+
 Algorithms used for Recommender System
 
 User Collaborative Filtering (User CF)
