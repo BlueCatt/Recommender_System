@@ -9,11 +9,11 @@ Systems that attempt to predict item that users may be interested in
 
 Systems that help people find information that may interest them
 
-Algorithms used for Recommender System
+<h3>Algorithms used for Recommender System</h3>
 
-User Collaborative Filtering (User CF)
+<h4>User Collaborative Filtering (User CF)</h4>
 A form of collaborative filtering (协同过滤算法) based on the similarity between users calculated using people's rating of those items
-Item Collaborative Filtering (Item CF)
+<h4>Item Collaborative Filtering (Item CF)</h4>
 A form of collaborative filtering based on the similarity between items calculated using people's rating of those items
 etc.
 Item CF
